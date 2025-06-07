@@ -2,20 +2,22 @@
 
 Macro-Wack is a 4 key macropad with 4 keys to keep it simple. It also has 2 WS2812B Leds, and uses kmk firmware
 
+Inspired by the Emerging red colour scheme found in some "No Man's Sky" Living Ships 
+
 ## Features:
 - A Two part case that will be 3d printed
 - 2 WS2812B RGB LEDs. Both will have the ability to glow through the case
 - 4 Keys
 
 ## CAD Model:
-Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, one for the PCB. Also, it has a 5 degree tilt
+Everything fits together using 4 M3 Bolts and heatset inserts. 4 for the case.
 
 It has 2 separate printed pieces.
 The Top/Lid and The Bottom/Case/Base
 
-<img src=Assets/assem_case.png alt="CAse" width="500"/>
+<img src=Assets/assem_case.png alt="Case" width="500"/>
 
-Made in Fusion360.
+Made in Fusion360 - Had to learn to use this from scratch.
 
 
 ## PCB
