@@ -6,7 +6,6 @@ Macro-Wack is a 4 key macropad with 4 keys to keep it simple. It also has 2 WS28
 - A Two part case that will be 3d printed
 - 2 WS2812B RGB LEDs. Both will have the ability to glow through the case
 - 4 Keys
-- [VIA](https://www.caniusevia.com/) support!
 
 ## CAD Model:
 Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, one for the PCB. Also, it has a 5 degree tilt
@@ -23,10 +22,10 @@ Made in Fusion360.
 Here's my PCB! It was made in KiCad.
 
 Schematic
-<img src=assets/sch.png alt="Schematic" width="300"/>
+<img src=Assets/sch.png alt="Schematic" width="300"/>
 
 PCB
-<img src=assets/pcb.png alt="PCB" width="300"/>
+<img src=Assets/pcb.png alt="PCB" width="300"/>
 
 I used SW_Cherry_MX_1 for the keyswitch footprints.
 
