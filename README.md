@@ -15,7 +15,7 @@ Everything fits together using 4 M3 Bolts and heatset inserts. 4 for the case.
 It has 2 separate printed pieces.
 The Top/Lid and The Bottom/Case/Base
 
-<img src=Assets/assem_case.png alt="Case" width="500"/>
+![image](https://raw.githubusercontent.com/Acidicts/Hackpad/refs/heads/main/Assets/assem_case.png)
 
 Made in Fusion360 - Had to learn to use this from scratch.
 
@@ -24,12 +24,16 @@ Made in Fusion360 - Had to learn to use this from scratch.
 Here's my PCB! It was made in KiCad.
 
 Schematic
-<img src=Assets/sch.png alt="Schematic" width="300"/>
+![image](https://raw.githubusercontent.com/Acidicts/Hackpad/refs/heads/main/Assets/sch.png)
 
 PCB
-<img src=Assets/pcb.png alt="PCB" width="300"/>
+![image](https://raw.githubusercontent.com/Acidicts/Hackpad/refs/heads/main/Assets/pcb.png)
 
 I used SW_Cherry_MX_1 for the keyswitch footprints.
+
+## Hackpad Render
+
+![image](https://raw.githubusercontent.com/Acidicts/Hackpad/refs/heads/main/Assets/textu_case.png)
 
 ## Firmware Overview
 This hackpad uses kmk firmware for everything. 
